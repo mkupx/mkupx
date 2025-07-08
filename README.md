@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привіт! 👋
 
-<!--
-**mkupx/mkupx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — фронтенд-розробник-початківець, якому цікаво створювати зручні, адаптивні та красиві інтерфейси. Вчуся щодня, практикуюсь на реальних проєктах і поступово збираю портфоліо.
 
-Here are some ideas to get you started:
+## 🔧 Технології, з якими працюю:
+- HTML / CSS / SCSS / Tailwind
+- JavaScript / TypeScript
+- React / Zustand / Framer Motion
+- WordPress (базовий рівень)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Мої проєкти:
+- **Bazarchick** — аналог OLX
+- **LearnUA** — платформа для онлайн-курсів
+
+## 🧠 Зараз вивчаю:
+- Тестування (Jest, Testing Library)
+- React Query
+- Архітектуру FSD
+
+Дякую, що завітав(-ла) на мій профіль!
+
+
+
+# Hi there! 👋
+
+I'm a beginner frontend developer passionate about building responsive and user-friendly interfaces. I learn every day, work on real projects, and slowly build my portfolio.
+
+## 🔧 Technologies I work with:
+- HTML / CSS / SCSS / Tailwind
+- JavaScript / TypeScript
+- React / Zustand / Framer Motion
+- WordPress (basic knowledge)
+
+## 💼 My projects:
+- **Bazarchick** — OLX-style classifieds platform
+- **LearnUA** — Online learning platform
+
+## 🧠 Currently learning:
+- Testing (Jest, Testing Library)
+- React Query
+- FSD architecture
+
+Thanks for visiting my profile!
