@@ -7,7 +7,8 @@ My name is **Yevhen**, and I'm a frontend developer passionate about creating mo
 ## 🛠️ Technologies
 - HTML / CSS / SCSS / Tailwind
 - JavaScript / TypeScript
-- React / Zustand / Framer Motion
+- React / Next.js / Zustand / Framer Motion
+- WordPress / PHP
 
 ---
 
