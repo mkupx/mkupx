@@ -71,8 +71,3 @@ Currently focused on Next.js 16 / React 19 / TypeScript and modern SaaS architec
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkupx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
-</div>
