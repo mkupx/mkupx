@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>Frontend Developer</b> · Passionate about DX, performance & clean architecture
+  <b>Frontend Developer</b> · Passionate about UX, performance & clean architecture
 </p>
 
 <p align="center">
