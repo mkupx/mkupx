@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Yevhen%20Zheliznyk&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Yevhen%20Zheliznyk&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Engineer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <b>Frontend Developer</b> · Passionate about UX, performance & clean architecture
+  <b>Frontend Engineer</b> · Passionate about UX, performance & clean architecture
 </p>
 
 <p align="center">
@@ -11,15 +11,20 @@
   <a href="https://www.linkedin.com/in/yevhenii-zheliznyk-6b01573a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://freelancehunt.com/freelancer/Zheka0_1.html"><img src="https://img.shields.io/badge/Freelancehunt-FA5D04?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.weblancer.net/users/Zheka_web/"><img src="https://img.shields.io/badge/Weblancer-2196F3?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:mecoded72@gmail.com"><img src="https://img.shields.io/badge/mecoded72@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:evhenzeliznik@gmail.com"><img src="https://img.shields.io/badge/evhenzeliznik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
-Frontend developer with **1 year** of commercial experience building production web apps.
-Currently focused on Next.js 16 / React 19 / TypeScript and modern SaaS architecture.
+Frontend engineer with **1+ year** of commercial experience building production web apps.
+Currently working with Next.js 16 / React 19 / TypeScript on a marketing analytics SaaS platform.
+
+Focused on **performance** (bundle optimization, Core Web Vitals), **SEO** and **i18n** —
+recently cut a client-side i18n payload from 296KB to 10KB and reduced a marketing site JS bundle by ~70%.
+
+Also delivered **10+ commercial freelance projects** — 5.0 rating on Freelancehunt, 8 reviews at 5/5 on Weblancer.
 
 ---
 ### 🛠️ Tech Stack
@@ -40,8 +45,8 @@ Currently focused on Next.js 16 / React 19 / TypeScript and modern SaaS architec
 
 **Animations**
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **State & Data**
 
@@ -64,6 +69,7 @@ Currently focused on Next.js 16 / React 19 / TypeScript and modern SaaS architec
 **Testing**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 
 **Other**
@@ -71,16 +77,22 @@ Currently focused on Next.js 16 / React 19 / TypeScript and modern SaaS architec
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 🚀 Personal Projects
+### 🚀 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Bazarchick](#)** | OLX-style classifieds platform | Next.js, TypeScript, Tailwind |
-| **[LearnUA](#)** | Online learning platform | React, Node.js |
+| **[Bazarchik](https://github.com/mkupx/bazarchik-frontend)** | Classifieds marketplace — auth, search, user chat, dashboard, CRUD | React 19, React Router 7, Axios, SCSS, Swiper, Vite |
+| **[LearnUA](https://github.com/mkupx/learnUA-frontend)** | Online course platform — auth, course editor, dark theme | TypeScript, React 19, Tailwind 4, DaisyUI, Formik + Yup, Motion, Vitest |
+| **[Finance Flow](https://github.com/mkupx/finance-flow-site)** | Client site built from design | HTML, SCSS, JS |
+| **[GoTrieop](https://github.com/mkupx/GoTrieop-template)** | Travel service site | HTML, SCSS, JS |
+| **[Olonge](https://github.com/mkupx/olonge-template)** | Commercial landing page | HTML, SCSS, JS |
+| **[Interno](https://github.com/mkupx/interno-template)** | Interior studio site | HTML, SCSS, JS |
 
 ---
 
