@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Yevhen%20Zheliznyk&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Engineer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Yevhen%20Zheliznyk&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=70&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <b>Frontend Engineer</b> · Passionate about UX, performance & clean architecture
+  <b>Full Stack Developer</b> (frontend-focused) · Passionate about UX, performance & clean architecture
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About me
 
-Frontend engineer with **1+ year** of commercial experience building production web apps.
-Currently working with Next.js 16 / React 19 / TypeScript on a marketing analytics SaaS platform.
+Full stack developer (strongest on the frontend) with **2 years** of experience building production web apps: freelance since October 2024 and a commercial product team since January 2026.
+I work with Next.js 16 / React 19 / TypeScript on a marketing analytics SaaS platform, including REST APIs, authentication and server-side rendering. I am learning Node.js and .NET to grow on the backend.
 
 Focused on **performance** (bundle optimization, Core Web Vitals), **SEO** and **i18n** —
 recently cut a client-side i18n payload from 296KB to 10KB and reduced a marketing site JS bundle by ~70%.
